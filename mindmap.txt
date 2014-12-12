@@ -1,0 +1,27 @@
+Questions:
+
+Who is the owner?
+	What features are important to me?
+Who is the audience?
+	What features are important to me?
+
+Portfolio:
+
+Artist
+	Showcase
+	Contact
+	Personality
+		Headshots
+		Quotes
+		About Me blurb
+		Skills/CV
+
+Client
+	Work
+	Personality
+	Contact
+	Testimonials
+	ROI
+		Pricing
+		Deliverables
+		Case Studies
